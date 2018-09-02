@@ -1,1 +1,1 @@
-# skillrack
+# mage
